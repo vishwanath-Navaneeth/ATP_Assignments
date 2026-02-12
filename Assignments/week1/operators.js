@@ -1,4 +1,3 @@
-
 function amount(a)
 {
     a = 0;
